@@ -5,49 +5,49 @@
   color: #000;
 }
 
-.t-title {
+.t-title-article-main {
   font-size: 45px;
   font-weight: 700;
   font-style: normal;
   color: #2d3748;
 }
-.t-title2 {
+.t-title-section-bottom {
   font-size: 40px;
   font-weight: 700;
   font-style: normal;
   color: #000000;
 }
-.t-title3 {
+.t-title-section-central {
   font-size: 30px;
   font-weight: 700;
   font-style: normal;
   color: #2d3748;
 }
-.t-title4 {
+.t-title-section-middle {
   font-size: 20px;
   font-weight: 700;
   font-style: normal;
   color: #2d3748;
 }
-.t-title5 {
+.t-title-article-author {
   font-size: 18px;
   font-weight: 700;
   font-style: normal;
   color: #2d3748;
 }
-.t-title6 {
+.t-section-bottom-link {
   font-size: 14px;
   font-weight: 700;
   font-style: normal;
   color: #000;
 }
-.t-title7 {
-  font-size: 11px;
+.t-section-central-link {
+  font-size: 12px;
   font-weight: 700;
   font-style: normal;
   color: #2d3748;
 }
-.t-regular-title {
+.t-regular-intro-span {
   font-size: 30 px;
   font-weight: 400;
   font-style: normal;
